@@ -72,7 +72,7 @@ SIMPLE_JWT = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://e-banking-frontend.vercel.app", # ← Baad me update karenge
+     "https://e-banking-frontend.vercel.app",  #
 ]
 
 STATIC_URL = '/static/'
